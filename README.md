@@ -1,7 +1,7 @@
 # Let workaround with a basic CNN example.
 In this example, we will package a CNN Appl.
 
-example-app
+App
 ├── cnn_app
 │   ├── __init__.py  # make the folder a package
 │   ├── app.py       # contains the Flask app object
